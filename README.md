@@ -12,7 +12,9 @@ Using these technologies professionally will have concerens like code standards 
 
 ##Reference:
 [https://github.com/kirandc/rails4_crud_with_angularjs](https://github.com/kirandc/rails4_crud_with_angularjs)
+
 [http://josephndungu.com/tutorials/rails-load-more-results-using-jquery-ajax](http://josephndungu.com/tutorials/rails-load-more-results-using-jquery-ajax)
+
 [http://www.w3schools.com/angular/](http://www.w3schools.com/angular/) 
 
 [http://templated.co/](http://templated.co/) 
