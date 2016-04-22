@@ -1,0 +1,35 @@
+div.slide-left {
+  width:100%;
+  overflow:hidden;
+}
+div.slide-left {
+  animation: slide-left 1s;
+}
+
+@keyframes slide-left {
+  from {
+    margin-left: 100%;
+    width: 50%; 
+  }
+
+  to {
+    margin-left: 0%;
+    width: 50%;
+  }
+}
+
+.container .record {
+	padding: 5px;
+	margin-bottom: 5px;
+}
+
+.button {
+	background-color: #fff100;
+	padding: 15px;
+	color: #001fff;
+}
+
+.lmc{
+	@extend .container;
+	text-align: center;
+}
